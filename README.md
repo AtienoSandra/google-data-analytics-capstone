@@ -24,16 +24,24 @@ These findings highlight potential opportunities for **Bellabeat** to design pro
 - **Sleep patterns** vary widely, with many users not achieving consistent rest.  
 - Higher activity does not always translate to **better sleep quality**.  
 
-## 📊 Key Visualizations
+## 🔑 Key Visualizations
 
-### Daily Activity Levels
-![Daily Activity](visuals/daily_activity.png)
+1. **Active Minutes vs Calories Burned**  
+   Shows a positive correlation between active minutes and calories burned.  
+   ![Active Minutes vs Calories](visuals/active_minutes_vs_calories.png)
 
-### Sleep Patterns
-![Sleep Patterns](visuals/sleep_patterns.png)
+2. **Calories vs Steps**  
+   Illustrates how total steps relate to daily calorie expenditure.  
+   ![Calories vs Steps](visuals/calories_vs_steps.png)
 
-### Activity vs Sleep
-![Activity vs Sleep](visuals/activity_vs_sleep.png)
+3. **Average Intensity by Time of Day**  
+   Highlights peak activity periods throughout the day.  
+   ![Average Intensity by Time of Day](visuals/avg_intensity_by_time.png)
+
+4. **Activity Intensity Categories**  
+   Comparison of time spent in lightly, fairly, and very active minutes.  
+   ![Activity Intensity Categories](visuals/activity_minutes_boxplot.png)
+
 
 ## 🚀 How to Run
 1. Install required packages:
