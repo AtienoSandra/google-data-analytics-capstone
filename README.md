@@ -5,14 +5,10 @@ Bellabeat is a high-tech manufacturer of health-focused products for women. The 
 
 This case study is part of the **Google Data Analytics Professional Certificate** capstone project.
 
----
-
 ## 👥 Key Stakeholders
 - Urška Sršen – Bellabeat co-founder and Chief Creative Officer  
 - Sando Mur – Bellabeat co-founder and executive team member  
 - Bellabeat Marketing Analytics Team  
-
----
 
 ## 🎯 Objectives
 The analysis seeks to answer the following questions:
@@ -22,27 +18,19 @@ The analysis seeks to answer the following questions:
 4. At which period do users record highest and lowest activity?  
 5. What insights can Bellabeat apply to improve their product line and marketing strategy?  
 
----
-
 ## 🛠️ Tools
 - R (tidyverse, ggplot2, dplyr, lubridate)  
 - Jupyter Notebook (R kernel)  
-
----
 
 ## 📊 Dataset
 - Source: [FitBit Fitness Tracker Data](https://www.kaggle.com/datasets/arashnic/fitbit)  
 - Size: 30 participants, collected from March–May 2016  
 - License: CC0 Public Domain  
 
----
-
 ## 🔑 Key Insights
 - Average activity levels and sleep patterns vary significantly among users.  
 - There is a correlation between higher activity levels and better sleep quality.  
 - Many users track daily steps and calories, but fewer consistently log hydration or sleep.  
-
----
 
 ## 🚀 Next Steps
 - Encourage more consistent data logging (especially for sleep and hydration).  
@@ -57,5 +45,4 @@ The analysis seeks to answer the following questions:
 ├── how-can-a-wellness-company-play-it-smart.ipynb   # Jupyter Notebook with full analysis
 ├── README.md                                        # Project overview
 ├── install_packages.R                               # R dependencies
-└── visuals/                                         # (Optional) exported plots
 ```
