@@ -25,23 +25,13 @@ These findings highlight potential opportunities for **Bellabeat** to design pro
 - Higher activity does not always translate to **better sleep quality**.  
 
 ## 🔑 Key Visualizations
+<img width="700" height="500" alt="Image" src="https://github.com/user-attachments/assets/3e5b17b7-219c-412d-935f-59b406f1244b" />
 
-1. **Active Minutes vs Calories Burned**  
-   Shows a positive correlation between active minutes and calories burned.  
-   ![Active Minutes vs Calories](visuals/active_minutes_vs_calories.png)
+<img width="2100" height="1500" alt="Image" src="https://github.com/user-attachments/assets/a3c90d1f-96c1-4a43-a4bd-e024a1ce80d8" />
 
-2. **Calories vs Steps**  
-   Illustrates how total steps relate to daily calorie expenditure.  
-   ![Calories vs Steps](visuals/calories_vs_steps.png)
+<img width="2100" height="1500" alt="Image" src="https://github.com/user-attachments/assets/48be28e7-a861-483f-b43f-aa1deabc93bf" />
 
-3. **Average Intensity by Time of Day**  
-   Highlights peak activity periods throughout the day.  
-   ![Average Intensity by Time of Day](visuals/avg_intensity_by_time.png)
-
-4. **Activity Intensity Categories**  
-   Comparison of time spent in lightly, fairly, and very active minutes.  
-   ![Activity Intensity Categories](visuals/activity_minutes_boxplot.png)
-
+<img width="2100" height="1500" alt="Image" src="https://github.com/user-attachments/assets/e29a5852-e002-4261-959b-70796a597ddc" />
 
 ## 🚀 How to Run
 1. Install required packages:
